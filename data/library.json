@@ -1,0 +1,134 @@
+[
+          {
+                    "id": 1,
+                    "title": "Harry Styles et ses mysteres - un travail engagé",
+                    "author": "Armelle Renée N'Songola",
+                    "nationality": "Britannique"
+          },
+          {
+                    "id": 3,
+                    "title": "Une vie au cinéma et à la salle de sport : l'histoire d'Antoine Rossano-Calamari",
+                    "author": "Antoine Rossano-Calamari",
+                    "nationality": "Thailandais"
+          },
+          {
+                    "id": 4,
+                    "title": "La Vie Trépidante d'Adriana : Une Franco-Mexicaine dans l'Espace",
+                    "author": "Adriana Molina Lopez",
+                    "nationality": "Franco-Mexicaine"
+          },
+          {
+                    "id": 5,
+                    "title": "Etre un Boss : le guide de Bastien et Ludwig ",
+                    "author": "Bastien & Ludwig",
+                    "nationality": "Italien"
+          },
+          {
+                    "id": 12,
+                    "title": "Le Guide du Mariage selon M & M",
+                    "author": "Maelle Danlos",
+                    "nationality": "Française"
+          },
+          {
+                    "id": 7,
+                    "title": "Ludwig Maddi et le Secret des Chats Parlants",
+                    "author": "Maelle & Armelle",
+                    "nationality": "Française"
+          },
+          {
+                    "id": 8,
+                    "title": "Le Fabuleux Voyage d'Amsterdan à Paris",
+                    "author": "Helene Laudy",
+                    "nationality": "Indienne"
+          },
+          {
+                    "id": 9,
+                    "title": "Les Quatre Saisons des chats",
+                    "author": "Coralie Bulard",
+                    "nationality": "Peruvienne"
+          },
+          {
+                    "id": 10,
+                    "title": "Les aventures crousitillantes de D",
+                    "author": "Dilou Devasahayam",
+                    "nationality": "Sri-Lankaise"
+          },
+          {
+                    "id": 14,
+                    "title": "Les aventures de Mason et Adriana à Séoul",
+                    "author": "Mason",
+                    "nationality": "Américaine"
+          },
+          {
+                    "id": 15,
+                    "title": "Harry Styles and the Mystery of Music - Volume 2",
+                    "author": "Armelle Renée N'Songola",
+                    "nationality": "Britannique"
+          },
+          {
+                    "id": 16,
+                    "title": "Continued Life in Cinema and the Gym: Antoine Rossano-Calamari's Chronicles",
+                    "author": "Antoine Rossano-Calamari",
+                    "nationality": "Thailandais"
+          },
+          {
+                    "id": 17,
+                    "title": "Adriana's Thrilling Life Continues: A Franco-Mexican in Mars",
+                    "author": "Adriana Molina Lopez",
+                    "nationality": "Franco-Mexicaine"
+          },
+          {
+                    "id": 18,
+                    "title": "Being a Boss 2.0: Bastien Lelièvre and Ludwig Maddi's Guide",
+                    "author": "Bastien & Ludwig",
+                    "nationality": "Italien"
+          },
+          {
+                    "id": 19,
+                    "title": "M & M Wedding Guide: The Second Edition",
+                    "author": "Maelle Danlos",
+                    "nationality": "Française"
+          },
+          {
+                    "id": 20,
+                    "title": "Ludwig Maddi and the Secret of Flying Cats",
+                    "author": "Maelle & Armelle",
+                    "nationality": "Française"
+          },
+          {
+                    "id": 21,
+                    "title": "The Fabulous Voyage from Paris to Rome",
+                    "author": "Helene Laudy",
+                    "nationality": "Indienne"
+          },
+          {
+                    "id": 23,
+                    "title": "The Crispy Adventures of D - Part 2",
+                    "author": "Dilou Devasahayam",
+                    "nationality": "Sri-Lankaise"
+          },
+          {
+                    "id": 24,
+                    "title": "Mason and Adriana's Adventures in Tokyo",
+                    "author": "Mason",
+                    "nationality": "Américaine"
+          },
+          {
+                    "id": 25,
+                    "title": "Harry Styles and the Secret of Time - Volume 3",
+                    "author": "Armelle Renée N'Songola",
+                    "nationality": "Britannique"
+          },
+          {
+                    "id": 26,
+                    "title": "A Life of Dedication: Antoine Rossano-Calamari's Journey - Part 3",
+                    "author": "Antoine Rossano-Calamari",
+                    "nationality": "Thailandais"
+          },
+          {
+                    "id": 27,
+                    "title": "Adriana's Extraterrestrial Life: A Franco-Mexican in the Galaxy",
+                    "author": "Adriana Molina Lopez",
+                    "nationality": "Franco-Mexicaine"
+          }
+]
